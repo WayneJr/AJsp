@@ -74,8 +74,8 @@ public class GetSms extends HttpServlet {
      */
     
     // The fields that will be necessary for twilio authentication
-    public static final String ACCOUNT_SID = "AC71e67635f40f73e901aca66f60bcd467";
-    public static final String AUTH_TOKEN = "5fcbb445c3d4bf28b32613a22fd0c473";
+    public static final String ACCOUNT_SID = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    public static final String AUTH_TOKEN = "a34saga4467wdfs56sfsy5r";
     
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
