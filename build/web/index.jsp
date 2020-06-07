@@ -13,7 +13,7 @@
 <body>
     <div class="all">
         <!-- <h1>What will you do?</h1> -->
-        <h1>Be Mine, Will You? </h1>
+        <h1>Enter a message: </h1>
     
         <div class="formdiv">
             <form action="herAnswer.jsp" method="POST">
