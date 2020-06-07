@@ -26,7 +26,7 @@ html, body {
 }
 
 .all::before {
-    background-image: url(../img/heavyhead.jpg);
+    background-image: url(../img/bulb.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     content: "";
