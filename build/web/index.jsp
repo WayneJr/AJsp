@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!--<link rel="stylesheet" href="css/main.css">-->
     <link href="webapp/resources/static/css/main.css" rel="stylesheet" type="text/css"/>
-    <title>Be Mine Baby</title>
+    <title>Send a message</title>
 </head>
 <body>
     <div class="all">
